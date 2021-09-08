@@ -1,4 +1,4 @@
-# Weather and Happiness: Are they related?
+# Weather and Happiness: Are They Related?
 
 ## Description:
 Examp relationships between weather and happiness by looking at temperature and precipitation trends across the globe in contrast with the World Happiness Report.
